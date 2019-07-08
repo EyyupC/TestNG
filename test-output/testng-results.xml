@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-07-07T21:19:28Z" name="Default suite" finished-at="2019-07-07T21:19:33Z" duration-ms="4965">
+    <groups>
+    </groups>
+    <test started-at="2019-07-07T21:19:28Z" name="Default test" finished-at="2019-07-07T21:19:33Z" duration-ms="4965">
+      <class name="com.cybertek.NG1Basics">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.cybertek.NG1Basics@1ebd319f]" started-at="2019-07-07T21:19:28Z" name="setup" finished-at="2019-07-07T21:19:31Z" duration-ms="3554" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Test2()[pri:1, instance:com.cybertek.NG1Basics@1ebd319f]" started-at="2019-07-07T21:19:31Z" name="Test2" finished-at="2019-07-07T21:19:33Z" duration-ms="1273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.cybertek.NG1Basics@1ebd319f]" started-at="2019-07-07T21:19:33Z" name="tearDown" finished-at="2019-07-07T21:19:33Z" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.cybertek.NG1Basics -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
